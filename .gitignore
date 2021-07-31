@@ -1,0 +1,10 @@
+# Property files in Mac or Windows
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.contentFlavour
+APPLE
+Microsoft
+desktop.ini
