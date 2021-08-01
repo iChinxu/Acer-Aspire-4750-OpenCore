@@ -3,7 +3,9 @@ OpenCore config for Acer Aspire 4750 series.
 ![系统信息][screenshot]
 
 ## Changelog:
-- 20210731: update opencore version to 0.7.0
+- 20210731: 
+
+  ​					update opencore version to 0.7.0
 
   ​    				update to Big Sur 11.5.1(20G80)
 ## Overview:
@@ -17,6 +19,8 @@ OpenCore config for Acer Aspire 4750 series.
 - [x] Audio
 
 - [x] USB2.0 （My laptop don't have any USB3.0 ports）
+
+- [ ] Facetime and iMessage (Do it yourself, its not hard)
 
 - [ ] Any other things I don't know
 
